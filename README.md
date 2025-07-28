@@ -72,7 +72,7 @@ print(f"👋 Hello World! I'm {developer.name}")
 ```bash
 ┌─[prashith@security]─[~]
 └──╼ $ whoami
-Cybersecurity Enthusiast | Network Security Specialist
+Cybersecurity Enthusiast 
 
 ┌─[prashith@security]─[~]
 └──╼ $ cat interests.txt
