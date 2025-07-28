@@ -131,8 +131,8 @@ for key, value in current_projects.items():
 
 <div align="center">
 
-### 🐍 Watch the Snake eat my contributions!
-![Snake animation](https://github.com/Prashithshetty/Prashithshetty/blob/output/github-contribution-grid-snake.svg)
+### 🐍 GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prashithshetty&theme=tokyo-night&hide_border=true)
 
 ### 🏆 Achievement Unlocked
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Prashithshetty&theme=tokyonight&no-frame=true&row=1&column=6)
@@ -170,7 +170,7 @@ mystery_code = lambda x: ''.join([chr(ord(c) + 1) if c.isalpha() else c for c in
 
 ### 🎯 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-![Visitor Count](https://profile-counter.glitch.me/Prashithshetty/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=Prashithshetty&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 **⭐ Star my repos if you find them interesting!**
 
